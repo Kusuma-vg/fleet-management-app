@@ -25,3 +25,8 @@ body{
     grid-template-columns: repeat(3,fr);
     gap: 20px;
 }
+
+.card{
+    border: 1px solid gray;
+    padding:10px
+}
